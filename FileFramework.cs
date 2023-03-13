@@ -1,7 +1,6 @@
-﻿using System.Globalization;
-using System.Text;
+﻿using System.Text;
 
-namespace TestNumbers
+namespace BankApp
 {
     public static class FileFramework
     {

@@ -1,4 +1,4 @@
-﻿namespace TestNumbers
+﻿namespace BankApp
 {
     public class General : User
     {

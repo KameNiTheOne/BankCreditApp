@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using static System.Console;
-namespace TestNumbers
+namespace BankApp
 {
     public static class Instruments
     {
