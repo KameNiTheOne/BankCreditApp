@@ -14,4 +14,4 @@ Static class that saves data to SaveData.dat file in your appdata folder and the
 Class with static void Main(), which is crucial for initializing this project. Also has static Repository class for storage and Menu class for UI.
 # Instruments
 Static class that has many repeating code pieces like string formaters and testers.
-#Thats all, folks!
+# Thats all folks!
